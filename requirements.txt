@@ -10,7 +10,7 @@ attrs==22.1.0
     # via pytest
 build==0.8.0
     # via pip-tools
-certifi==2022.9.24
+certifi==2023.7.22
     # via
     #   httpcore
     #   httpx
